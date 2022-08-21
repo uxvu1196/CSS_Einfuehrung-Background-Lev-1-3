@@ -1,0 +1,11 @@
+section{
+    background-image: url("../img/gradient_bg_vertical.png");
+    /* background-color: grey; */
+    background-repeat: no-repeat;
+    background-size:  auto 100%;
+}
+
+article{
+    background: url(https://picsum.photos/200/300) no-repeat right;
+
+}
