@@ -23,3 +23,18 @@ article{
     /* background-origin: content-box; */
     background-origin: border-box;
   }
+
+  .task4{
+    background: url(https://source.unsplash.com/random) no-repeat  ;
+    background-size: auto 100%;
+    background-attachment: fixed;
+  }
+
+  .task5{
+    border: 10px dotted black;
+    padding: 15px;
+    background: lightblue;
+     /* background-clip: padding-box; */
+    /* background-clip: content-box; */
+    background-clip: border-box;  
+  }
