@@ -1,4 +1,4 @@
-section{
+.task1{
     background-image: url("../img/gradient_bg_vertical.png");
     /* background-color: grey; */
     background-repeat: no-repeat;
@@ -9,3 +9,17 @@ article{
     background: url(https://picsum.photos/200/300) no-repeat right;
 
 }
+
+.task2{
+  background: url(https://source.unsplash.com/random) center no-repeat  ;  
+}
+
+.task3{
+    background: url(https://source.unsplash.com/random) no-repeat  ;  
+    border: 10px dashed black;
+    padding: 25px;
+ 
+    /* background-origin: padding-box; */
+    /* background-origin: content-box; */
+    background-origin: border-box;
+  }
